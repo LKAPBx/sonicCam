@@ -1,0 +1,1 @@
+Holes in Pin 3 of U3-U28 must not be plated.

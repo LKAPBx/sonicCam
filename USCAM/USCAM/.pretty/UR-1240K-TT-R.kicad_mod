@@ -1,0 +1,12 @@
+(module UR-1240K-TT-R (layer F.Cu) (tedit 5797E275)
+  (tags "USONIC SPEAKER")
+  (fp_text reference REF** (at 0.5 -7.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value UR-1240K-TT-R (at 0 7.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_circle (center 0 0) (end 5.5 3) (layer F.SilkS) (width 0.15))
+  (pad 2 thru_hole circle (at 4.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at -4 0) (size 2 2) (drill 1) (layers *.Cu *.Mask F.SilkS))
+)

@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC337
+D Vce 50V, Ic 800mA, PNP Epitaxial Silicon Transistor, TO-92
+K PNP Epitaxial Silicon Transistor
+F http://www.onsemi.com/pub_link/Collateral/BC337-D.PDF
+$ENDCMP
+#
+$CMP CPC1025N
+D SSR 400V 120MA
+K SSR
+$ENDCMP
+#
+$CMP MPL115A1
+D Mini SPI Digital Barometer
+K Barometer MPL115A1
+$ENDCMP
+#
+$CMP SPH0641LU4H-1
+D SiSonic Digital Zero-Height Microphone
+K Microphone
+$ENDCMP
+#
+$CMP UR-1240K-TT-4
+D ULTRASONIC LOUD SPEAKER 40KHZ 30VRMS 2100PF
+K USONIC SPEAKER
+$ENDCMP
+#
+#End Doc Library
